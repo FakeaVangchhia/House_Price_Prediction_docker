@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/111e2f6b-66ca-44a0-bb35-571c0e28d3d0)# How to install
+# How to install
 - Clone the repository using 'git clone https://github.com/FakeaVangchhia/House_Price_Prediction_docker' in terminal
 - cd House_Price_Prediction_docker
 - pip install requirements.txt
